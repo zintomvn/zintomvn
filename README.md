@@ -1,8 +1,6 @@
 # Hi, I'm Duc Le
 
-I am interested in building practical AI systems that combine **machine learning**, **retrieval**, **data engineering**, and **backend infrastructure**.
-
-My current work focuses on **multimodal retrieval systems**, **RAG applications**, **AI agents**, and **machine learning engineering workflows**.
+I am interested in building practical AI systems and Data science projects that combine **Machine learning**, **Data science**, and **Software engineering**.
 
 ---
 
@@ -14,9 +12,7 @@ My main areas of interest include:
 
 * Machine learning and deep learning implementation
 * Data science and analysis
-* Multimodal retrieval for image, video, text, and audio search
-* Retrieval-Augmented Generation and agentic AI systems
-* Vector databases, hybrid search, and retrieval infrastructure
+* Multimodal retrieval, RAG and agentic system
 * Backend systems for AI applications
 * Data processing, experiment tracking, and evaluation workflows
 
@@ -36,15 +32,3 @@ My main areas of interest include:
   <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat" />
 </p>
 
----
-
-
-## Contact
-
-* GitHub: [zintomvn](https://github.com/zintomvn)
-* Facebook: [zintomfromnowhere](https://www.facebook.com/zintomfromnowhere)
-* Instagram: [zintomfromnowhere](https://www.instagram.com/zintomfromnowhere)
-
----
-
-> Building AI systems by learning, experimenting, and engineering practical solutions.
