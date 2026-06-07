@@ -6,15 +6,11 @@ I am interested in building practical AI systems and Data science projects that 
 
 ## About
 
-I build and experiment with AI systems from both the research and engineering perspectives.
-
-My main areas of interest include:
+I build and experiment with AI systems from both the research and engineering perspectives. My main areas of interest include:
 
 * Machine learning and deep learning implementation
-* Data science and analysis
-* Multimodal retrieval, RAG and agentic system
-* Backend systems for AI applications
-* Data processing, experiment tracking, and evaluation workflows
+* Data science and analysis, multimodal retrieval, RAG and agentic system
+* Backend systems for AI applications, data processing, experiment tracking, and evaluation workflows
 
 ---
 
