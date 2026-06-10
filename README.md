@@ -1,12 +1,6 @@
 # Hi, I'm Duc Le
 
-I am interested in building practical AI systems and Data science projects that combine **Machine learning**, **Data science**, and **Software engineering**.
-
----
-
-## About
-
-I build and experiment with AI systems from both the research and engineering perspectives. My main areas of interest include:
+I am interested in building practical AI systems and Data science projects that combine **Data science**, and **AI engineering**. I build and experiment with AI systems from both the research and engineering perspectives. My main areas of interest include:
 
 * Machine learning and deep learning implementation
 * Data science and analysis, multimodal retrieval, RAG and agentic system
